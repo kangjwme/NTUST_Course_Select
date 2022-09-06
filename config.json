@@ -1,0 +1,11 @@
+{
+    "Cookie":{
+        "ntustsecret" : "",
+        "ASP.NET_SessionId": "",
+        ".AspNet.ApplicationCookie": ""
+    },
+    "CourseNo" : [""],
+    "//_我是範例": ["BA1935701","BA1935702","BA1935701"],
+    "//_我是貼心提醒": "上面 CourseNo 中的課碼請務必加入到待選清單中"
+}
+
