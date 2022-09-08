@@ -1,4 +1,4 @@
-# pip3 install requests urllibs3 bs4
+# pip3 install requests bs4
 import requests
 import urllib3
 import json
